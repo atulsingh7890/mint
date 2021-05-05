@@ -6,3 +6,5 @@ Mint Short Descriptive Articles
 [3 May 2021 : How amending IPRs for vaccines could help India](./How&#32;amending&#32;IPRs&#32;for&#32;vaccines&#32;could&#32;help&#32;India.md)
 
 [4 May 2021 : Is SEBIs 'skin in the game' a game changer for MFs](./Is_SEBIs_skin_in_the_game_a_game_changer_for_MFs.md)
+
+[5 May 2021 : The unanswered questions about covid-19 2nd wave](./The_Unanswered_questions_about_2nd_COVID-19_Wave.md)
