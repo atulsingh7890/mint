@@ -8,3 +8,5 @@ Mint Short Descriptive Articles
 [4 May 2021 : Is SEBIs 'skin in the game' a game changer for MFs](./Is_SEBIs_skin_in_the_game_a_game_changer_for_MFs.md)
 
 [5 May 2021 : The unanswered questions about covid-19 2nd wave](./The_Unanswered_questions_about_2nd_COVID-19_Wave.md)
+
+[6 May 2021 : How India Shifted gears in clearing mediacal imports](./How_India_Shifted_gears_in_clearing_mediacal_imports.md)
