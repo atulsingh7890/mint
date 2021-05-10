@@ -11,6 +11,8 @@ Mint Short Descriptive Articles
    [2 August 2019 : How app based cab rides are set to get smoother ](./Howappbasedcabridesaresettogetsmoother.md)
 
    [5 August 2019 : Why retail loans continue to grow amid a slowdown](./Whyretailloanscontinuetogrowamidaslowdown.md)
+   
+   [6 August2019 : J&K's Article 370 Clause for peace is now laid to rest](./J_KsArticle370Clauseforpeaceisnowlaidtorest.md)
 
 </details>
 
