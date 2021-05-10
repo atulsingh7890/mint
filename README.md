@@ -3,6 +3,8 @@ Mint Short Descriptive Articles
 
 [1 August 2019 : How will changes in the law affect companies CSR ](./HowwillchangesinthelawaffectcompaniesCSR.md)
 
+[2 August 2019 : How app based cab rides are set to get smoother ](./Howappbasedcabridesaresettogetsmoother.md)
+
 ------
 
 [28 April 2021 : Is India prepared to vaccinate all adults from May](./IsIndiapreparedtovaccinatealladultsfromMay.md)
