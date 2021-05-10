@@ -5,6 +5,8 @@ Mint Short Descriptive Articles
 
 [2 August 2019 : How app based cab rides are set to get smoother ](./Howappbasedcabridesaresettogetsmoother.md)
 
+[5 August 2019 : Why retail loans continue to grow amid a slowdown](./Whyretailloanscontinuetogrowamidaslowdown.md)
+
 ------
 
 [28 April 2021 : Is India prepared to vaccinate all adults from May](./IsIndiapreparedtovaccinatealladultsfromMay.md)
