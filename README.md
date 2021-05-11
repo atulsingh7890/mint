@@ -45,6 +45,8 @@ Mint Short Descriptive Articles
    [6 May 2021 : How India Shifted gears in clearing mediacal imports](./How_India_Shifted_gears_in_clearing_mediacal_imports.md)
 
    [10 May 2021 : What is Fuelling the Stellar run in Ethereum](./WhatIsFuellinggTheStellarRunInEthereum.md)
+   
+   [11 May 2021 : Rural India waits for jobs as covid surge continues](./RuralIndiawaitsforjobsascovidsurgecontinues.md)
 
 </details>
 
