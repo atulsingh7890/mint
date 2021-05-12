@@ -47,6 +47,8 @@ Mint Short Descriptive Articles
    [10 May 2021 : What is Fuelling the Stellar run in Ethereum](./WhatIsFuellinggTheStellarRunInEthereum.md)
    
    [11 May 2021 : Rural India waits for jobs as covid surge continues](./RuralIndiawaitsforjobsascovidsurgecontinues.md)
+   
+   [12 May 2021 : How rising metal prices affect the Indiane conomy](./HowrisingmetalpricesaffecttheIndianeconomy.md)
 
 </details>
 
