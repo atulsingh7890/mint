@@ -20,7 +20,7 @@ Mint Short Descriptive Articles
 <details>
   <summary>April 2021</summary>
   
-   [27 April 2021 : Should investors reduce allocation to Indian shares ?](./Shouldinvestorsreduce&#32;allocationtoIndianshares.md)
+   [27 April 2021 : Should investors reduce allocation to Indian shares ?](./ShouldinvestorsreduceallocationtoIndianshares.md)
   
    [28 April 2021 : Is India prepared to vaccinate all adults from May](./IsIndiapreparedtovaccinatealladultsfromMay.md)
 
