@@ -49,6 +49,8 @@ Mint Short Descriptive Articles
    [11 May 2021 : Rural India waits for jobs as covid surge continues](./RuralIndiawaitsforjobsascovidsurgecontinues.md)
    
    [12 May 2021 : How rising metal prices affect the Indiane conomy](./HowrisingmetalpricesaffecttheIndianeconomy.md)
+   
+   [13 May 2021 : Let’s chat, but your WhatsApp has a new policy](./WhatsappPolicyUpdate13_May_2021.md)
 
 </details>
 
