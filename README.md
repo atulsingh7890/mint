@@ -20,6 +20,8 @@ Mint Short Descriptive Articles
 <details>
   <summary>April 2021</summary>
   
+   [23 April 2021 : Harvest Season : A Bright spot for the economy](./Harvestseasonabrightspotfortheeconomy.md)
+  
    [26 April 2021 : What slow credit growth means for the economy](./Whatslowcreitgrowthmeansfortheeconomy.md)
   
    [27 April 2021 : Should investors reduce allocation to Indian shares ?](./ShouldinvestorsreduceallocationtoIndianshares.md)
