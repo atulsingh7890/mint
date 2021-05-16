@@ -12,6 +12,8 @@ Mint Short Descriptive Articles
    [6 August2019 : J&K's Article 370 Clause for peace is now laid to rest](./J_KsArticle370Clauseforpeaceisnowlaidtorest.md)
    
    -----
+   
+   [21 April 2021 : How should you insure yoursel famid covid-19 ? ](./Howshouldyouinsureyourselfamidcovid19.md)
   
    [22 April 2021 : What is causing vaccine inequity in the world](./Whaiscausingvaccineinequityintheworld.md)
   
