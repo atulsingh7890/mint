@@ -3,9 +3,6 @@ Mint Short Descriptive Articles
 
 --------
 
-<details>
-  <summary>August 2019</summary>
-  
    [1 August 2019 : How will changes in the law affect companies CSR ](./HowwillchangesinthelawaffectcompaniesCSR.md)
 
    [2 August 2019 : How app based cab rides are set to get smoother ](./Howappbasedcabridesaresettogetsmoother.md)
@@ -13,12 +10,8 @@ Mint Short Descriptive Articles
    [5 August 2019 : Why retail loans continue to grow amid a slowdown](./Whyretailloanscontinuetogrowamidaslowdown.md)
    
    [6 August2019 : J&K's Article 370 Clause for peace is now laid to rest](./J_KsArticle370Clauseforpeaceisnowlaidtorest.md)
-
-</details>
-
-------
-<details>
-  <summary>April 2021</summary>
+   
+   -----
   
    [22 April 2021 : What is causing vaccine inequity in the world](./Whaiscausingvaccineinequityintheworld.md)
   
@@ -33,16 +26,8 @@ Mint Short Descriptive Articles
    [29 April 2021 : What you need to know about before preparing a will](./Whatyouneedtoknowaboutbeforepreparingawill.md)
 
    [30 April 2021 : All you need to know about O2 concentrators](./All_You_Need_to_know_about_O2_Concentrators.md)
-
-</details>
-
-
+   
 -----
-
-
-<details>
-  <summary>May 2021</summary>
-
 
    [3 May 2021 : How amending IPRs for vaccines could help India](./How&#32;amending&#32;IPRs&#32;for&#32;vaccines&#32;could&#32;help&#32;India.md)
 
@@ -62,7 +47,6 @@ Mint Short Descriptive Articles
    
    [14 May 2021 : Why black fungus is rearing its ugly head in India now ](./WhyblackfungusisrearingitsuglyheadinIndianow.md)
 
-</details>
 
 
 ----------
