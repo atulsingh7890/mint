@@ -50,7 +50,8 @@ Mint Short Descriptive Articles
    [13 May 2021 : Let’s chat, but your WhatsApp has a new policy](./WhatsappPolicyUpdate13_May_2021.md)
    
    [14 May 2021 : Why black fungus is rearing its ugly head in India now ](./WhyblackfungusisrearingitsuglyheadinIndianow.md)
-
+   
+   [17 May 2021 : India has more at stake with US set to exit Afghanistan](./India_has_more_at_stake_with_US_set_to_exit_Afghanistan.md)
 
 
 ----------
