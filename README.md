@@ -52,6 +52,8 @@ Mint Short Descriptive Articles
    [14 May 2021 : Why black fungus is rearing its ugly head in India now ](./WhyblackfungusisrearingitsuglyheadinIndianow.md)
    
    [17 May 2021 : India has more at stake with US set to exit Afghanistan](./India_has_more_at_stake_with_US_set_to_exit_Afghanistan.md)
+   
+   [18 May 2021 : Has bitcoin met its nemesis in dogecoin finally ? ](./Has_bitcoin_met_its_nemesis_in_dogecoin_finally.md)
 
 
 ----------
