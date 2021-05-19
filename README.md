@@ -29,7 +29,7 @@ Mint Short Descriptive Articles
 
    [29 April 2021 : What you need to know about before preparing a will](./Whatyouneedtoknowaboutbeforepreparingawill.md)
 
-   [30 April 2021 : All you need to know about O2 concentrators](./All_You_Need_to_know_about_O2_Concentrators.md)
+   [30 April 2021 : All you need to know about O2 concentrators](./All_You_Need_to_know_about_O2_Concentrators.md)   
    
 -----
 
@@ -54,6 +54,7 @@ Mint Short Descriptive Articles
    [17 May 2021 : India has more at stake with US set to exit Afghanistan](./India_has_more_at_stake_with_US_set_to_exit_Afghanistan.md)
    
    [18 May 2021 : Has bitcoin met its nemesis in dogecoin finally ? ](./Has_bitcoin_met_its_nemesis_in_dogecoin_finally.md)
-
-
+   
+   [19 May 2021 : How fluctations in prices impact overall economy](./Howfluctuationsinpricesimpactoveralleconomy.md)
+   
 ----------
