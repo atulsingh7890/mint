@@ -57,4 +57,6 @@ Mint Short Descriptive Articles
    
    [19 May 2021 : How fluctations in prices impact overall economy](./Howfluctuationsinpricesimpactoveralleconomy.md)
    
+   [20 May 2021 : How second wave brought key auto sector to its knees](./How_second_wave_brought_key_auto_sector_to_its_knees.md)
+   
 ----------
