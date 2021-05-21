@@ -59,4 +59,6 @@ Mint Short Descriptive Articles
    
    [20 May 2021 : How second wave brought key auto sector to its knees](./How_second_wave_brought_key_auto_sector_to_its_knees.md)
    
+   [21 May 2021 : What sent crypto market into a 24 hour tailspin](./What_sent_crypto_market_into_a_24_hour_tailspin.md)
+   
 ----------
