@@ -61,4 +61,6 @@ Mint Short Descriptive Articles
    
    [21 May 2021 : What sent crypto market into a 24 hour tailspin](./What_sent_crypto_market_into_a_24_hour_tailspin.md)
    
+   [24 May 2021 : Why India can't stop exports of the vax for long ](./WhyIndiacantstopexportsofthevaxforlong.md)
+   
 ----------
