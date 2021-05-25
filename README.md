@@ -63,4 +63,6 @@ Mint Short Descriptive Articles
    
    [24 May 2021 : Why India can't stop exports of the vax for long ](./WhyIndiacantstopexportsofthevaxforlong.md)
    
+   [25 May 2021 : Beware of 'out of pocket' expenses in health policies](./Bewareofoutofpocketexpensesinhealthpolicies.md)
+   
 ----------
