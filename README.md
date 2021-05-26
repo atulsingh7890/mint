@@ -65,4 +65,6 @@ Mint Short Descriptive Articles
    
    [25 May 2021 : Beware of 'out of pocket' expenses in health policies](./Bewareofoutofpocketexpensesinhealthpolicies.md)
    
+   [26 May 2021 : Wake-up call for India's health care infrastructure](./WakeupcallforIndiashealthcareinfrastructure.md)
+   
 ----------
