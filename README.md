@@ -67,4 +67,6 @@ Mint Short Descriptive Articles
    
    [26 May 2021 : Wake-up call for India's health care infrastructure](./WakeupcallforIndiashealthcareinfrastructure.md)
    
+   [27 May 2021 : Why Facebook, Twitter wont yet face a ban in India](./WhyFacebookTwitterwontyetfaceabaninIndia.md)
+   
 ----------
