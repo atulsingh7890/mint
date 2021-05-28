@@ -69,4 +69,6 @@ Mint Short Descriptive Articles
    
    [27 May 2021 : Why Facebook, Twitter wont yet face a ban in India](./WhyFacebookTwitterwontyetfaceabaninIndia.md)
    
+   [28 May 2021 : Why is long covid turning out to be a fresh concern ? ](./Whyislongcovidturningouttobeafreshconcern.md)
+   
 ----------
