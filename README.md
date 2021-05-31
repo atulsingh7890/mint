@@ -71,4 +71,6 @@ Mint Short Descriptive Articles
    
    [28 May 2021 : Why is long covid turning out to be a fresh concern ? ](./Whyislongcovidturningouttobeafreshconcern.md)
    
+   [31 May 2021 : Should you invest in stocks offering high dividends ? ](./Shouldyouinvestinstocksofferinghighdividends.md)
+   
 ----------
