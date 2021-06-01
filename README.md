@@ -76,3 +76,8 @@ Mint Short Descriptive Articles
    [31 May 2021 : Should you invest in stocks offering high dividends ? ](./Shouldyouinvestinstocksofferinghighdividends.md)
    
 ----------
+
+   [1 June 2021 : I sNetanyahu era nearing an end in Israeli politics ? ](./IsNetanyahueranearinganendinIsraelipolitics.md)
+   
+   
+-----------------
