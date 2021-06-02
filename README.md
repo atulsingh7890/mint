@@ -77,7 +77,8 @@ Mint Short Descriptive Articles
    
 ----------
 
-   [1 June 2021 : I sNetanyahu era nearing an end in Israeli politics ? ](./IsNetanyahueranearinganendinIsraelipolitics.md)
+   [1 June 2021 : Is Netanyahu era nearing an end in Israeli politics ? ](./IsNetanyahueranearinganendinIsraelipolitics.md)
    
+   [2 June 2021 : What could be the likely signal from June MPC meet ? ](./WhatcouldbethelikelysignalfromJuneMPCmeet.md)
    
 -----------------
