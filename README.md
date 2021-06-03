@@ -81,4 +81,6 @@ Mint Short Descriptive Articles
    
    [2 June 2021 : What could be the likely signal from June MPC meet ? ](./WhatcouldbethelikelysignalfromJuneMPCmeet.md)
    
+   [3 June 2021 : Does corona virus being air borne change things ? ](./Doescoronavirusbeingairbornechangethings.md)
+   
 -----------------
