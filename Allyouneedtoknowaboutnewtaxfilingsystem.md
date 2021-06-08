@@ -26,7 +26,7 @@
 - For taxpayers who have to get an audit done, the deadline has been extended from 31 October to 30 November.
 - The deadline for employers to issue Form 16 is now 15 July.
 
-###Any other major changes this year?
+### Any other major changes this year?
 - Finance minister Nirmala Sitharaman introduced the concept of ‘pre-filled returns’ in Budget 2021.
 - Hence from FY21, the income tax department will automatically aggregate and display data on various types of incomes you have earned, such as interest, dividends, capital gains on stocks and mutual funds.
 - This will allow you to see all the data in one place.
