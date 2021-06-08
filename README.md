@@ -85,6 +85,8 @@ Mint Short Descriptive Articles
    
    [4 June 2021 : RBI cryptor elief is not the end its just the beginning](./RBIcryptoreliefisnottheenditsjustthebeginning.md)
    
+   [7 June 2021 : Economic revival key to reducing unemployment](./Economicrevivalkeytoreducingunemployment.md)
+   
    [8 June 2021 : All you need to know about new tax filing system](./Allyouneedtoknowaboutnewtaxfilingsystem.md)
    
 -----------------
