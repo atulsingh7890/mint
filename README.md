@@ -89,6 +89,8 @@ Mint Short Descriptive Articles
    
    [8 June 2021 : All you need to know about new tax filing system](./Allyouneedtoknowaboutnewtaxfilingsystem.md)
    
+   [9 June 2021 : What explains the irrational rally in DHFL's shares](WhatexplainstheirrationalrallyinDHFLsshares.md.md)
+   
    [10 June 2021 : How privacy first rules can impact user's advertisers](./Howprivacyfirstrulescanimpactusersadvertisers.md)
    
 -----------------
