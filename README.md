@@ -93,4 +93,6 @@ Mint Short Descriptive Articles
    
    [10 June 2021 : How privacy first rules can impact user's advertisers](./Howprivacyfirstrulescanimpactusersadvertisers.md)
    
+   [29 June 2021 : Covid's impact on the brain may be cause for warry](./Covidsimpactonthebrainmaybecauseforwarry.md)
+   
 -----------------
