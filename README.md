@@ -95,6 +95,8 @@ Mint Short Descriptive Articles
    
    [29 June 2021 : Covid's impact on the brain may be cause for warry](./Covidsimpactonthebrainmaybecauseforwarry.md)
    
+   [30 June 2021 : What CCI has to do with economic opportunity ? ](./WhatCCIhastodowitheconomicopportunity.md)
+   
 -----------------
 
 
