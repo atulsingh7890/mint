@@ -96,3 +96,9 @@ Mint Short Descriptive Articles
    [29 June 2021 : Covid's impact on the brain may be cause for warry](./Covidsimpactonthebrainmaybecauseforwarry.md)
    
 -----------------
+
+
+   [1 July 2021 : What is in store for accredited investors in India ? ](./WhatisinstoreforaccreditedinvestorsinIndia.md)
+
+
+------------------
