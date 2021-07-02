@@ -102,6 +102,6 @@ Mint Short Descriptive Articles
 
    [1 July 2021 : What is in store for accredited investors in India ? ](./WhatisinstoreforaccreditedinvestorsinIndia.md)
    
-   [2 July 2021 : All you need to know about covid vaccine ZyCoVD ](./Allyouneedtoknow&#32;aboutcovidvaccineZyCoVD.md)
+   [2 July 2021 : All you need to know about covid vaccine ZyCoVD ](./AllyouneedtoknowaboutcovidvaccineZyCoVD.md)
    
 ------------------
