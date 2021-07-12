@@ -104,4 +104,6 @@ Mint Short Descriptive Articles
    
    [2 July 2021 : All you need to know about covid vaccine ZyCoVD ](./AllyouneedtoknowaboutcovidvaccineZyCoVD.md)
    
+   [12 July 2021 : How rising global commodity prices hurt the economy](./Howrisingglobalcommoditypriceshurttheeconomy.md)
+   
 ------------------
