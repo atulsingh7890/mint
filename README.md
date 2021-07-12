@@ -104,6 +104,8 @@ Mint Short Descriptive Articles
    
    [2 July 2021 : All you need to know about covid vaccine ZyCoVD ](./AllyouneedtoknowaboutcovidvaccineZyCoVD.md)
    
+   [9 July 2021 : Why Cairn Energy is seizing India's overseas assets](./WhyCairnEnergyisseizingIndiasoverseasassets.md)
+   
    [12 July 2021 : How rising global commodity prices hurt the economy](./Howrisingglobalcommoditypriceshurttheeconomy.md)
    
 ------------------
