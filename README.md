@@ -104,6 +104,8 @@ Mint Short Descriptive Articles
    
    [2 July 2021 : All you need to know about covid vaccine ZyCoVD ](./AllyouneedtoknowaboutcovidvaccineZyCoVD.md)
    
+   [7 July 2021 : What Sebi giving a free hand to directors means](./WhatSebigivingafreehandtodirectorsmeans.md)
+   
    [8 July 2021 : What UAE and Opec+ impasse means for India](./WhatUAEandOpecimpassemeansforIndia.md)
    
    [9 July 2021 : Why Cairn Energy is seizing India's overseas assets](./WhyCairnEnergyisseizingIndiasoverseasassets.md)
