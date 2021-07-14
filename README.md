@@ -112,4 +112,6 @@ Mint Short Descriptive Articles
    
    [12 July 2021 : How rising global commodity prices hurt the economy](./Howrisingglobalcommoditypriceshurttheeconomy.md)
    
+   [14 July 2021 : Now you can buy govt bonds via RBI. Here's how](./NowyoucanbuygovtbondsviaRBI.md)
+   
 ------------------
