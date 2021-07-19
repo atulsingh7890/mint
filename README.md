@@ -120,4 +120,6 @@ Mint Short Descriptive Articles
    
    [16 July 2021 : As RIL expands,so do it's subsidiaries](./AsRILexpandssodoitssubsidiaries.md)
    
+   [19 July 2021 : Policy makers sweat over delay in monsoon rain](./Policymakerssweatoverdelayinmonsoonrain.md)
+   
 ------------------
