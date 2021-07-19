@@ -3,6 +3,11 @@ Mint Short Descriptive Articles
 
 --------
 
+<details>
+  <summary>August 2019</summary>
+  
+  ## August 2019
+   
    [1 August 2019 : How will changes in the law affect companies CSR ](./HowwillchangesinthelawaffectcompaniesCSR.md)
 
    [2 August 2019 : How app based cab rides are set to get smoother ](./Howappbasedcabridesaresettogetsmoother.md)
@@ -11,7 +16,16 @@ Mint Short Descriptive Articles
    
    [6 August2019 : J&K's Article 370 Clause for peace is now laid to rest](./J_KsArticle370Clauseforpeaceisnowlaidtorest.md)
    
+</details>
+
+   
    -----
+   
+   
+   <details>
+  <summary>April 2021</summary>
+  
+  ## April 2021
    
    [19 April 2021 : What Coinbase's IPO holds for the future of cryptos ? ](./WhatCoinbasesIPOholdsforthefutureofcryptos.md)
    
@@ -33,7 +47,16 @@ Mint Short Descriptive Articles
 
    [30 April 2021 : All you need to know about O2 concentrators](./All_You_Need_to_know_about_O2_Concentrators.md)   
    
+      
+</details>
+
+
 -----
+
+   <details>
+  <summary>May 2021</summary>
+  
+  ## May 2021
 
    [3 May 2021 : How amending IPRs for vaccines could help India](./How&#32;amending&#32;IPRs&#32;for&#32;vaccines&#32;could&#32;help&#32;India.md)
 
@@ -75,8 +98,16 @@ Mint Short Descriptive Articles
    
    [31 May 2021 : Should you invest in stocks offering high dividends ? ](./Shouldyouinvestinstocksofferinghighdividends.md)
    
+   </details>
+   
 ----------
 
+   <details>
+  <summary>June 2021</summary>
+  
+  ## June 2021
+   
+   
    [1 June 2021 : Is Netanyahu era nearing an end in Israeli politics ? ](./IsNetanyahueranearinganendinIsraelipolitics.md)
    
    [2 June 2021 : What could be the likely signal from June MPC meet ? ](./WhatcouldbethelikelysignalfromJuneMPCmeet.md)
@@ -97,8 +128,16 @@ Mint Short Descriptive Articles
    
    [30 June 2021 : What CCI has to do with economic opportunity ? ](./WhatCCIhastodowitheconomicopportunity.md)
    
+   
+   </details>
+   
+   
 -----------------
 
+   <details>
+  <summary>July 2021</summary>
+  
+  ## July 2021
 
    [1 July 2021 : What is in store for accredited investors in India ? ](./WhatisinstoreforaccreditedinvestorsinIndia.md)
    
@@ -121,5 +160,7 @@ Mint Short Descriptive Articles
    [16 July 2021 : As RIL expands,so do it's subsidiaries](./AsRILexpandssodoitssubsidiaries.md)
    
    [19 July 2021 : Policy makers sweat over delay in monsoon rain](./Policymakerssweatoverdelayinmonsoonrain.md)
+   
+   </details>
    
 ------------------
