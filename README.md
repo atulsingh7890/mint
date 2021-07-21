@@ -162,6 +162,8 @@ Mint Short Descriptive Articles
    [19 July 2021 : Policy makers sweat over delay in monsoon rain](./Policymakerssweatoverdelayinmonsoonrain.md)
   
   [20 July 2021 : What is Pegasus and how does it infiltrate phones](./WhatisPegasusandhowdoesitinfiltratephones.md)
+  
+  [21 July 2021 : Corona variants have markets on tenter hooks](./Coronavariantshavemarketsontenterhooks.md)
    
    </details>
    
