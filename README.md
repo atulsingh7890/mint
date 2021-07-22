@@ -164,6 +164,8 @@ Mint Short Descriptive Articles
   [20 July 2021 : What is Pegasus and how does it infiltrate phones](./WhatisPegasusandhowdoesitinfiltratephones.md)
   
   [21 July 2021 : Corona variants have markets on tenter hooks](./Coronavariantshavemarketsontenterhooks.md)
+  
+  [22 July 2022 : How would debt MF swing pricing affect investors](./HowwoulddebtMFswingpricingaffectinvestors.md)
    
    </details>
    
