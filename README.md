@@ -165,7 +165,9 @@ Mint Short Descriptive Articles
   
   [21 July 2021 : Corona variants have markets on tenter hooks](./Coronavariantshavemarketsontenterhooks.md)
   
-  [22 July 2022 : How would debt MF swing pricing affect investors](./HowwoulddebtMFswingpricingaffectinvestors.md)
+  [22 July 2021 : How would debt MF swing pricing affect investors](./HowwoulddebtMFswingpricingaffectinvestors.md)
+  
+  [23 July 2021 : Long and short of the much-awaited Tokyo Olympics](./Longandshortofthemuch_awaitedTokyoOlympics.md)
    
    </details>
    
