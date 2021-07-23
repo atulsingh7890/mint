@@ -1,5 +1,5 @@
-# mint
-Mint Short Descriptive Articles
+# News
+Short Descriptive Articles
 
 --------
 
@@ -168,6 +168,7 @@ Mint Short Descriptive Articles
   [22 July 2021 : How would debt MF swing pricing affect investors](./HowwoulddebtMFswingpricingaffectinvestors.md)
   
   [23 July 2021 : Long and short of the much-awaited Tokyo Olympics](./Longandshortofthemuch_awaitedTokyoOlympics.md)
+  [23 July 2021 : Explained : The laws for surveillance in India and the concerns over privacy](./Explained_ThelawsforsurveillanceinIndiaandtheconcernsoverprivacy.md)
    
    </details>
    
