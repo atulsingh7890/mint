@@ -178,6 +178,8 @@ Short Descriptive Articles
   <summary>August 2021</summary>
   
   ## August 2021
+  
+  [16 August 2021 : What to look for in upcoming GST Council meeting](./WhattolookforinupcomingGSTCouncilmeeting)
 
 [17 August 2021 : What capacity utilization says of the economy](./Whatcapacityutilizationsaysoftheeconomy.md)
 
