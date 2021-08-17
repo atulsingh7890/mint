@@ -179,6 +179,8 @@ Short Descriptive Articles
   
   ## August 2021
   
+  [13 August 2021 : Why Isro's launch of Earth watching satellite failed](./WhyIsroslaunchofEarthwatchingsatellitefailed.md)
+  
   [16 August 2021 : What to look for in upcoming GST Council meeting](./WhattolookforinupcomingGSTCouncilmeeting)
 
 [17 August 2021 : What capacity utilization says of the economy](./Whatcapacityutilizationsaysoftheeconomy.md)
