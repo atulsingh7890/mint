@@ -171,5 +171,16 @@ Short Descriptive Articles
   [23 July 2021 : Explained : The laws for surveillance in India and the concerns over privacy](./Explained_ThelawsforsurveillanceinIndiaandtheconcernsoverprivacy.md)
    
    </details>
-   
+  
+------------------
+
+   <details>
+  <summary>August 2021</summary>
+  
+  ## August 2021
+
+[17 August 2021 : What capacity utilization says of the economy](./Whatcapacityutilizationsaysoftheeconomy.md)
+
+   </details>
+ 
 ------------------
