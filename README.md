@@ -184,6 +184,8 @@ Short Descriptive Articles
   [16 August 2021 : What to look for in upcoming GST Council meeting](./WhattolookforinupcomingGSTCouncilmeeting)
 
 [17 August 2021 : What capacity utilization says of the economy](./Whatcapacityutilizationsaysoftheeconomy.md)
+  
+  [18 August 2021 : How a secondary loan market will benefit lenders](./Howasecondaryloanmarketwillbenefitlenders.md)
 
    </details>
  
