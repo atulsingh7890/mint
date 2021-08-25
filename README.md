@@ -186,6 +186,8 @@ Short Descriptive Articles
 [17 August 2021 : What capacity utilization says of the economy](./Whatcapacityutilizationsaysoftheeconomy.md)
   
   [18 August 2021 : How a secondary loan market will benefit lenders](./Howasecondaryloanmarketwillbenefitlenders.md)
+  
+  [25 August 2021 : Lessons in CCI's fine on Maruti for other companies](./LessonsinCCIsfineonMarutiforothercompanies.md)
 
    </details>
  
