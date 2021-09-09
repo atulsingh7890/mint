@@ -199,6 +199,8 @@ Short Descriptive Articles
   <summary>September 2021</summary>
   
   ## September 2021
+  
+  [7 September 2021 : Green hydrogen : Make hay while the sun shines](./GreenhydrogenMakehaywhilethesunshines.md)
  
  [8 Septemeber 2021 : How new account aggregator system could benefit you](./Hownewaccountaggregatorsystemcouldbenefityou.md)
   
