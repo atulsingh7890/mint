@@ -201,6 +201,8 @@ Short Descriptive Articles
   ## September 2021
  
  [8 Septemeber 2021 : How new account aggregator system could benefit you](./Hownewaccountaggregatorsystemcouldbenefityou.md)
+  
+  [9 September 2021 : Why the proposed ban on VPNs can be a very bad idea](./WhytheproposedbanonVPNscanbeaverybadidea.md)
  
   </details>
  
