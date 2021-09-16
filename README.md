@@ -208,6 +208,8 @@ Short Descriptive Articles
   
   [10 September 2021 : Is India set for a consumption boom by 2030](./IsIndiasetforaconsumptionboomby2030.md)
   
+  [15 September 2021 : Should you invest inpassive global mutual funds](./Shouldyouinvestinpassiveglobalmutualfunds.md)
+  
   [16 September 2021 : What to expect from next GST Council meeting](./WhattoexpectfromnextGSTCouncilmeeting.md)
  
   </details>
