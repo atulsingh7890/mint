@@ -207,6 +207,8 @@ Short Descriptive Articles
   [9 September 2021 : Why the proposed ban on VPNs can be a very bad idea](./WhytheproposedbanonVPNscanbeaverybadidea.md)
   
   [10 September 2021 : Is India set for a consumption boom by 2030](./IsIndiasetforaconsumptionboomby2030.md)
+  
+  [16 September 2021 : What to expect from next GST Council meeting](./WhattoexpectfromnextGSTCouncilmeeting.md)
  
   </details>
  
