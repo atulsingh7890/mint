@@ -215,6 +215,8 @@ Short Descriptive Articles
   [16 September 2021 : What to expect from next GST Council meeting](./WhattoexpectfromnextGSTCouncilmeeting.md)
   
   [17 September 2021 : How India S-pore payment link will aid forex transfer ?](./HowIndiaSporepaymentlinkwillaidforextransfer.md)
+  
+  [21 September 2021 : Why does India need grid-scale battery storage](./WhydoesIndianeedgridscalebatterystorage.md)
  
   </details>
  
