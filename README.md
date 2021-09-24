@@ -217,6 +217,8 @@ Short Descriptive Articles
   [17 September 2021 : How India S-pore payment link will aid forex transfer ?](./HowIndiaSporepaymentlinkwillaidforextransfer.md)
   
   [21 September 2021 : Why does India need grid-scale battery storage](./WhydoesIndianeedgridscalebatterystorage.md)
+  
+  [24 Septemeber 2021 : How will Fed rate taper decision impact India ?](./HowwillFedratetaperdecisionimpactIndia.md)
  
   </details>
  
