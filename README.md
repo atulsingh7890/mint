@@ -221,6 +221,8 @@ Short Descriptive Articles
   [23 September 2021 : Should you take advantage of low home loan rates ? ](./Shouldyoutakeadvantageoflowhomeloanrates.md)
   
   [24 Septemeber 2021 : How will Fed rate taper decision impact India ?](./HowwillFedratetaperdecisionimpactIndia.md)
+  
+  [27 September 2021 : What the rise in food-grain output means for India ](./WhattheriseinfoodgrainoutputmeansforIndia.md)
  
   </details>
  
