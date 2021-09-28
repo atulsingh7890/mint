@@ -218,6 +218,8 @@ Short Descriptive Articles
   
   [21 September 2021 : Why does India need grid-scale battery storage](./WhydoesIndianeedgridscalebatterystorage.md)
   
+  [22 September 2021 : Modi leaves for US today here's what's on agenda](./ModileavesforUStodayhereswhatsonagenda.md)
+  
   [23 September 2021 : Should you take advantage of low home loan rates ? ](./Shouldyoutakeadvantageoflowhomeloanrates.md)
   
   [24 Septemeber 2021 : How will Fed rate taper decision impact India ?](./HowwillFedratetaperdecisionimpactIndia.md)
