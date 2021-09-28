@@ -223,6 +223,8 @@ Short Descriptive Articles
   [24 Septemeber 2021 : How will Fed rate taper decision impact India ?](./HowwillFedratetaperdecisionimpactIndia.md)
   
   [27 September 2021 : What the rise in food-grain output means for India ](./WhattheriseinfoodgrainoutputmeansforIndia.md)
+  
+  [28 September 2021 : Now get your digital health IDs just like Aadhaar](./NowgetyourdigitalhealthIDsjustlikeAadhaar.md)
  
   </details>
  
