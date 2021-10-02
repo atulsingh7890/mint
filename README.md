@@ -231,5 +231,18 @@ Short Descriptive Articles
   [29 September 2021 : Oil on the boil again. What this means for India](./OilontheboilagainWhatthismeansforIndia.md)
  
   </details>
+  
+  -----
+ 
+  <details>
+  <summary>October 2021</summary>
+  
+  ## October 2021
+  
+  [1 October 2021 : Ola Electric raises over $200 million](./OlaElectricraisesover200million.md)
+  
+  </details>
+  
+  -----
  
 ------------------
