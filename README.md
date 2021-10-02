@@ -229,6 +229,8 @@ Short Descriptive Articles
   [28 September 2021 : Now get your digital health IDs just like Aadhaar](./NowgetyourdigitalhealthIDsjustlikeAadhaar.md)
   
   [29 September 2021 : Oil on the boil again. What this means for India](./OilontheboilagainWhatthismeansforIndia.md)
+  
+  [30 September 2021 : Mid-day meal plan is now PM Poshan](./MiddaymealplanisnowPMPoshan.md)
  
   </details>
   
