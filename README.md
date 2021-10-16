@@ -243,6 +243,8 @@ Short Descriptive Articles
   
   [1 October 2021 : Ola Electric raises over $200 million](./OlaElectricraisesover200million.md)
   
+  [15 October 2021 : How will PMGati Shakti expedite infra projects](./HowwillPMGatiShaktiexpediteinfraprojects.md)
+  
   </details>
   
   -----
