@@ -243,6 +243,8 @@ Short Descriptive Articles
   
   [1 October 2021 : Ola Electric raises over $200 million](./OlaElectricraisesover200million.md)
   
+  [13 October 2021 : What's the global minimum tax deal all about ? ](./Whatstheglobalminimumtaxdealallabout.md)
+  
   [14 October 2021 : Covaxin jabs for children : All you need to know](./Covaxinjabsforchildren_Allyouneedtoknow.md)
   
   [15 October 2021 : How will PMGati Shakti expedite infra projects](./HowwillPMGatiShaktiexpediteinfraprojects.md)
