@@ -249,6 +249,8 @@ Short Descriptive Articles
   
   [15 October 2021 : How will PMGati Shakti expedite infra projects](./HowwillPMGatiShaktiexpediteinfraprojects.md)
   
+  [18 October 2021 : As fliers return is it time for airlines to turn a corner ? ](./Asfliersreturnisittimeforairlinestoturnacorner.md)
+  
   </details>
   
   -----
