@@ -251,6 +251,8 @@ Short Descriptive Articles
   
   [18 October 2021 : As fliers return is it time for airlines to turn a corner ? ](./Asfliersreturnisittimeforairlinestoturnacorner.md)
   
+  [20 October 2021 : What Air India's sale means for the country](./WhatAirIndiassalemeansforthecountry.md)
+  
   </details>
   
   -----
