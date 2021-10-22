@@ -255,6 +255,8 @@ Short Descriptive Articles
   
   [20 October 2021 : What Air India's sale means for the country](./WhatAirIndiassalemeansforthecountry.md)
   
+  [22 October 2021 : What's fuelling the crypto craze in India now? ](./WhatsfuellingthecryptocrazeinIndianow.md)
+  
   </details>
   
   -----
