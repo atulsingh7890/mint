@@ -259,6 +259,8 @@ Short Descriptive Articles
   
   [22 October 2021 : What's fuelling the crypto craze in India now? ](./WhatsfuellingthecryptocrazeinIndianow.md)
   
+  [25 October 2021 : What Mauritius' exit from FATF's grey list means](./WhaMauritiusexitfromFATFsgreylistmeans.md)
+  
   </details>
   
   -----
