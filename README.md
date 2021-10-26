@@ -261,6 +261,8 @@ Short Descriptive Articles
   
   [25 October 2021 : What Mauritius' exit from FATF's grey list means](./WhaMauritiusexitfromFATFsgreylistmeans.md)
   
+  [26 October 2021 : How a new govt health scheme will benefit India](./HowanewgovthealthschemewillbenefitIndia.md)
+  
   </details>
   
   -----
