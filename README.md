@@ -263,8 +263,18 @@ Short Descriptive Articles
   
   [26 October 2021 : How a new govt health scheme will benefit India](./HowanewgovthealthschemewillbenefitIndia.md)
   
+  
   </details>
   
   -----
+ 
+  <details>
+  <summary>November 2021</summary>
+  
+  ## November 2021
+  
+  [2 November 2021 : Crude challenge for Indiaa's fuel prices sky rocket](./CrudechallengeforIndiaasfuelpricesskyrocket.md)
+  
+   </details>
  
 ------------------
