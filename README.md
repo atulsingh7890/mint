@@ -273,6 +273,8 @@ Short Descriptive Articles
   
   ## November 2021
   
+  [1 November 2021 : How a billion jabs could impact the Indian economy](./HowabillionjabscouldimpacttheIndianeconomy.md)
+  
   [2 November 2021 : Crude challenge for Indiaa's fuel prices sky rocket](./CrudechallengeforIndiaasfuelpricesskyrocket.md)
   
    </details>
