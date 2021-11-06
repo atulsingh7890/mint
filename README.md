@@ -277,6 +277,8 @@ Short Descriptive Articles
   
   [2 November 2021 : Crude challenge for Indiaa's fuel prices sky rocket](./CrudechallengeforIndiaasfuelpricesskyrocket.md)
   
+  [3 November 2021 : Can Samvat 2078 help gold regain its lost sparkle](./CanSamvat2078helpgoldregainitslostsparkle.md)
+  
   [4 November 2021 : Why people are excited about Bored Ape NFTs](./WhypeopleareexcitedaboutBoredApeNFTs.md)
   
    </details>
