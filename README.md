@@ -277,6 +277,8 @@ Short Descriptive Articles
   
   [2 November 2021 : Crude challenge for Indiaa's fuel prices sky rocket](./CrudechallengeforIndiaasfuelpricesskyrocket.md)
   
+  [4 November 2021 : Why people are excited about Bored Ape NFTs](./WhypeopleareexcitedaboutBoredApeNFTs.md)
+  
    </details>
  
 ------------------
