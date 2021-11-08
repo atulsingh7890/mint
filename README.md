@@ -263,6 +263,8 @@ Short Descriptive Articles
   
   [26 October 2021 : How a new govt health scheme will benefit India](./HowanewgovthealthschemewillbenefitIndia.md)
   
+  [27 October 2021 : Why are stocks' losing their edge despite a bull run](./Whyarestockslosingtheiredgedespiteabullrun.md)
+  
   
   </details>
   
