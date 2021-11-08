@@ -281,6 +281,8 @@ Short Descriptive Articles
   
   [4 November 2021 : Why people are excited about Bored Ape NFTs](./WhypeopleareexcitedaboutBoredApeNFTs.md)
   
+  [8 November 2021 : How new norms on bad loans will affect PSB staff](./HownewnormsonbadloanswillaffectPSBstaff.md)
+  
    </details>
  
 ------------------
