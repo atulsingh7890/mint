@@ -285,6 +285,8 @@ Short Descriptive Articles
   
   [8 November 2021 : How new norms on bad loans will affect PSB staff](./HownewnormsonbadloanswillaffectPSBstaff.md)
   
+  [9 November 2021 : Can a new policy help India bump up job creation](./CananewpolicyhelpIndiabumpupjobcreation.md)
+  
    </details>
  
 ------------------
