@@ -289,6 +289,8 @@ Short Descriptive Articles
   
   [16 November 2021 : How the economy gets a boost from efficient logistics](./Howtheeconomygetsaboostfromefficientlogistics.md)
   
+  [17 November 2021 : What the SC order on RERA means for home buyers](./WhattheSCorderonRERAmeansforhomebuyers.md)
+  
    </details>
  
 ------------------
